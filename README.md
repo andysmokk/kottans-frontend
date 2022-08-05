@@ -6,6 +6,8 @@
 
 ## 1. Linux CLI and Networking.
 
+#### Скріни:
+
 - [Module 1](./task_linux_cli/module_1.png)
 - [Module 2](./task_linux_cli/module_2.png)
 - [Module 3](./task_linux_cli/module_3.png)
