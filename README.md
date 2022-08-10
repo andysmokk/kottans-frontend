@@ -28,3 +28,13 @@
 #### Мої думки:
 
 Нарешті пройшов всі рівні на [learngitbranching.js.org](https://learngitbranching.js.org/) :smirk:, хоча почав їх виконувати ще пів року назад. На практиці досить часто використовував команди add, commit, push, push origin, pull, checkout, checkout -b (доречі використовуючи pull навіть не замислювався, що ця команда об'єднує в собі fetch та merge, ніколи ними не користувався). Поки що не доводилось використовувати cherry-pick та rebase.
+
+## 3. Вступ до HTML і CSS.
+
+#### Скріни:
+
+- [Learn HTML/Learn CSS](./task_html_css_intro/Learn_HTML_CSS.png)
+
+#### Мої думки:
+
+Гарне повторення пройденого раніше матеріалу.
