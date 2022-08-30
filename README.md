@@ -63,3 +63,18 @@ PS. Доречі вперше познайомився з Multiple-column Layout
 #### Мої думки:
 
 - Доволі цікаве завдання при відсутності значного досвіду з верстки. Виконувати було не важко, але зайняло деякий час.
+
+## 6. JavaScript Basics.
+
+#### Результат:
+
+- [Basic JavaScript](./task_js_basics/Basic_JavaScript.png)
+- [ES6 Challenges](./task_js_basics/ES6_Challenges.png)
+- [Basic Data Structures](./task_js_basics/Basic_Data_Structures.png)
+- [Basic Algorithm Scripting](./task_js_basics/Basic_Algorithm_Scripting.png)
+- [Functional Programming](./task_js_basics/Functional_Programming.png)
+- [Algorithm Scripting Challenges](./task_js_basics/Algorithm_Scripting_Challenges.png)
+
+#### Мої думки:
+
+- Чудове практичне закріплення набутих знань. Такі задачі дають можливість краще запам'ятати методи та розібратися в їх функціонуванні. Останній модуль "Algorithm Scripting Challenges" для мене достатньо важкий :sweat:, деякі задачі модуля вирішував з підказками.
