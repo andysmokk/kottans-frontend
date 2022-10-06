@@ -105,7 +105,7 @@ PS. Доречі вперше познайомився з Multiple-column Layout
 
 #### Результат:
 
-- [:smirk:](./task_js_oop/codewars.png)
+- [Codewars](./task_js_oop/codewars.png)
 - [Практичне завдання - демо](https://andysmokk.github.io/classic-frogger-game/)
 
 #### Мої думки:
